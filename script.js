@@ -14,3 +14,7 @@ function restar(){
     document.getElementById("resultado").textContent = resta;
 }
 
+function multiplicar(){
+    let multi = numero1 * numero2;
+    document.getElementById("resultado").textContent = multi;
+}
