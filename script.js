@@ -9,7 +9,7 @@ function sumar(){
     document.getElementById("resultado").textContent = suma;
 }
 
-function multiplicar(){
-    let multi = numero1 * numero2;
-    document.getElementById("resultado").textContent = multi;
+function dividir(){
+    let div = numero1 / numero2;
+    document.getElementById("resultado").textContent = div;
 }
