@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: calibri;
+}
+
+.container{
+    box-shadow: 0 0 10px 5px #ddd;
+    padding: 1rem;
+}
+
+.container__buttons{
+    margin: 1rem 0;
+}
+
+span{
+    display: block;
+    background-color: #ddd;
+    padding: .4rem;
+}
