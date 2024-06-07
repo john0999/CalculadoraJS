@@ -9,11 +9,6 @@ function sumar(){
     document.getElementById("resultado").textContent = suma;
 }
 
-function restar(){
-    let resta = numero1 - numero2;
-    document.getElementById("resultado").textContent = resta;
-}
-
 function multiplicar(){
     let multi = numero1 * numero2;
     document.getElementById("resultado").textContent = multi;
